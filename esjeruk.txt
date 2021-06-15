@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Es Jeruk Kunci</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700i,900|Roboto&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.min.css">
+    <link rel="stylesheet" href="css/jquery.fancybox.min.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+    <link rel="stylesheet" href="css/aos.css">
+1
+    <!-- MAIN CSS -->
+    <link rel="stylesheet" href="css/style.css">
+
+  </head>
+
+  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+
+    
+    <div class="site-wrap" id="home-section">
+
+      <div class="site-mobile-menu site-navbar-target">
+        <div class="site-mobile-menu-header">
+          <div class="site-mobile-menu-close mt-3">
+            <span class="icon-close2 js-menu-toggle"></span>
+          </div>
+        </div>
+        <div class="site-mobile-menu-body"></div>
+      </div>
+
+
+
+      <header class="site-navbar site-navbar-target bg-white" role="banner">
+
+        <div class="container">
+          <div class="row align-items-center position-relative">
+
+            <div class="col-lg-4">
+              <nav class="site-navigation text-right ml-auto " role="navigation">
+                <ul class="site-menu main-menu js-clone-nav ml-auto d-none d-lg-block">
+                  <li class="active"></li>
+                  <li><a href="kuliner.html" class="nav-link">Kuliner</a></li>
+                  <li><a href="wisata.html" class="nav-link">Wisata</a></li>
+                </ul>
+              </nav>
+            </div>
+            <div class="col-lg-4 text-center">
+              <div class="site-logo">
+                <a href="index.html">HOME</a>
+              </div>
+
+
+              <div class="ml-auto toggle-button d-inline-block d-lg-none"><a href="#" class="site-menu-toggle py-5 js-menu-toggle text-white"><span class="icon-menu h3 text-primary"></span></a></div>
+            </div>
+            <div class="col-lg-4">
+              <nav class="site-navigation text-left mr-auto " role="navigation">
+                <ul class="site-menu main-menu js-clone-nav ml-auto d-none d-lg-block">
+                  <li><a href="gallery.html" class="nav-link">Galeri</a></li>
+                  <li><a href="contact.html" class="nav-link">Kontak</a></li>
+                </ul>
+              </nav>
+            </div>
+            
+
+          </div>
+        </div>
+
+      </header>
+
+
+
+
+    <div class="owl-carousel-wrapper">
+
+
+      <div class="owl-carousel owl-1 ">
+ 
+        <div class="ftco-cover-1" style="background-image: url('images/lempahdarat.jpg');"></div>
+        <div class="ftco-cover-1" style="background-image: url('images/lempahdarat1.jpg');"></div>
+        
+      </div>
+    </div>  
+    
+
+    <div>
+        <h4>
+            Resep Es Jeruk Kunci
+        </h4>
+        <p>
+        &nbsp&nbsp&nbsp&nbsp&nbsp MINUMAN apa yang pas untuk melepas dahaga di siang yang terik? Kalau kamu menjawab es teh manis, berarti kamu harus banget kenalan dengan minuman segar bernama es jeruk kunci.
+
+        Minuman khas Belitung ini dibuat dari perasan jeruk kunci, air, dan tambahan gula. Jeruk kunci merupakan sejenis jeruk dengan ukuran sebesar bola pingpong. Sekilas, jeruk kunci mirip jeruk limau. Namun, jika dilihat lagi, kulit jeruk kunci, meskipun sama-sama hijau, tidak punya kerutan.
+        
+        Jeruk kunci punya rasa yang amat asam dan kecut, tapi segar. Jeruk ini juga dikenal dengan sebutan jeruk sambal, karena perasan airnya digunakan sebagai campuran sambal. Selain itu, jeruk kunci juga dikenal dengan nama jeruk cina atau limau calong.Di Belitung, jeruk kunci yang terasa asam ini malah dibuat jadi minuman segar penangkal teriknya mentari 'Negeri Laskar Pelangi'. Selain segar, rasa asam es jeruk kunci bikin mata kamu melek lo. Selain mengolahnya jadi minuman enak, orang Belitung juga menggunakan jeruk ini sebagai pengganti jeruk nipis untuk dicampurkan ke makanan seperti soto, bakso, mi kuah ikan, mi Belitong, atau mi koba.
+
+        Tak sulit membuat es jeruk kunci. Kamu bisa mendapatkan buah ini di pasar tradisional ataupun di pusat perbelanjaan. Untuk membuat 1 gelas minuman ini, diperlukan 2 atau 3 butir jeruk kunci yang airnya diperas. Tambahkan sekitar dua atau tiga sendok gula atau sesuai selera. Tambahkan air ke gelas dan aduk rata lalu tambahkan pecahan es. Kamu juga bisa membuat minuman ini dalam versi hangat untuk penghangat di kala cuaca dingin.
+</p>
+<p>
+BAHAN-BAHAN: <br> 
+</p>
+<p>
+
+  2 buah jeruk kunci<br> 
+  3-4 sdt gula pasir<br> 
+  50 ml air hangat<br> 
+  150 ml air<br> 
+  secukupnya es batu<br> 
+  
+    
+
+<br> CARA MEMBUAT :<br> 
+
+1. Belah jeruk kunci secara melintang. Setelah dibelah, perhatikan apakah ada biji jeruk yang ikut terbelah, jika ada segera buang agar getahnya tidak menyebar.<br>
+2. Siapkan gelas ukuran 300 ml, tempatkan saringan teh di atas gelas. Kemudian peras jeruk sampai airnya keluar. Memerasnya jangan juga terlalu kuat agar getah yang terkandung dalam bagian kulit jeruk tidak ikut terperas.
+<br>
+3. Tuang air hangat ke dalam gelas melalui saringan, lalu tambahkan gula pasir, kemudian kocok rata hingga gula larut. <br>
+4. Tambahkan air, lalu kocok rata. <br>
+5. Tambahkan pecahan es batu sampai gelas terisi penuh, lalu sajikan.<br>
+
+</p>
+    </div>
+
+
+        <div class="row pt-5 mt-5 text-center">
+          <div class="col-md-12">
+            <div class="pt-5">
+              <p>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This website is made with by Vicky & Sandy
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            </p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </footer>
+
+    </div>
+
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.sticky.js"></script>
+    <script src="js/jquery.waypoints.min.js"></script>
+    <script src="js/jquery.animateNumber.min.js"></script>
+    <script src="js/jquery.fancybox.min.js"></script>
+    <script src="js/jquery.easing.1.3.js"></script>
+    <script src="js/aos.js"></script>
+
+    <script src="js/main.js"></script>
+
+     
+
+  </body>
+
+</html>

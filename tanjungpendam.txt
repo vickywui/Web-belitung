@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Tanjung Pendam</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700i,900|Roboto&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.min.css">
+    <link rel="stylesheet" href="css/jquery.fancybox.min.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+    <link rel="stylesheet" href="css/aos.css">
+1
+    <!-- MAIN CSS -->
+    <link rel="stylesheet" href="css/style.css">
+
+  </head>
+
+  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+
+    
+    <div class="site-wrap" id="home-section">
+
+      <div class="site-mobile-menu site-navbar-target">
+        <div class="site-mobile-menu-header">
+          <div class="site-mobile-menu-close mt-3">
+            <span class="icon-close2 js-menu-toggle"></span>
+          </div>
+        </div>
+        <div class="site-mobile-menu-body"></div>
+      </div>
+
+
+
+      <header class="site-navbar site-navbar-target bg-white" role="banner">
+
+        <div class="container">
+          <div class="row align-items-center position-relative">
+
+            <div class="col-lg-4">
+              <nav class="site-navigation text-right ml-auto " role="navigation">
+                <ul class="site-menu main-menu js-clone-nav ml-auto d-none d-lg-block">
+                  <li class="active"></li>
+                  <li><a href="kuliner.html" class="nav-link">Kuliner</a></li>
+                  <li><a href="wisata.html" class="nav-link">Wisata</a></li>
+                </ul>
+              </nav>
+            </div>
+            <div class="col-lg-4 text-center">
+              <div class="site-logo">
+                <a href="index.html">HOME</a>
+              </div>
+
+
+              <div class="ml-auto toggle-button d-inline-block d-lg-none"><a href="#" class="site-menu-toggle py-5 js-menu-toggle text-white"><span class="icon-menu h3 text-primary"></span></a></div>
+            </div>
+            <div class="col-lg-4">
+              <nav class="site-navigation text-left mr-auto " role="navigation">
+                <ul class="site-menu main-menu js-clone-nav ml-auto d-none d-lg-block">
+                  <li><a href="gallery.html" class="nav-link">Galeri</a></li>
+                  <li><a href="contact.html" class="nav-link">Kontak</a></li>
+                </ul>
+              </nav>
+            </div>
+            
+
+          </div>
+        </div>
+
+      </header>
+
+
+
+
+    <div class="owl-carousel-wrapper">
+
+
+      
+ 
+        <div class="ftco-cover-1" style="background-image: url('images/kongdjie1.jpg');"></div>
+       
+        
+      
+    </div>  
+    
+
+    <div>
+       
+        <p>
+        &nbsp&nbsp&nbsp&nbsp&nbsp Liburan di Pulau Belitung, selalu diingatkan untuk mampir ke kedai kopi. Khususnya saat di ibukota Belitung Timur, Manggar, kota  1001 warung kopi. Namun, jangan lupa juga di Tanjung Pandan pun ada kedai kopi yang tidak boleh dilewatkan. 
+
+Berada di kawasan Pecinan, tepatnya di Jalan Siburik Barat nomor 4, warung kopi berada di simpang jalan. Kopi Kong Djie, namanya. Telah berdiri sejak 1943, warung kopi ini menjadi tempat berkumpul warga saat pagi hari. Mungkin nama kedai kopi ini tak asing karena sudah memiliki cabang dengan sistem waralaba di berbagai kota. Namun, mencicipi di tempat aslinya tentunya terasa berada.Bila ingin mengintip pembuatannya bisa ke salah satu sisinya. Di sebuah jendela yang menghadap Gereja Regina Pacis terlihat deretan ceret  tinggi menutupi tungku. Tak lama akan terlihat saringan kopi pun bergerak bila tamu mulai berdatangan. Pintu masuk tepat di depan Sungai Siburik. Aroma kopi pun langsung menguar ke udara, ketika kaki melangkah ke dalam kedai sederhana ini. 
+
+Bangku kayu dengan meja panjang. Di meja ada penganan yang bisa menjadi teman kopi hitam ataupun kopi susu. Dari pisang goreng, ketan, kroket, dan lain-lain. Para pria yang duduk di bagian dalam hingga pojok ruangan. Berbahasa Melayu, Indonesia ada juga yang berbahasa Hokkian. Warung kopi Kong Djie juga memang buka mulai pukul 06.00, dulu hanya sampai sore hari, kini sudah buka hingga pukul 21.00.  Kopi di pulau ini memang lebih banyak dinikmati di pagi hari. Kopi menjadi penyemangat pagi, bahkan nongkrong di warung kopi sepanjang hari yang banyak dilakukan pria Melayu bisa ditemukan di sini. Para lelaki itu ngobrol sembari bermain catur.
+
+Di kedai mulai dibuka Ho Kong Djie, seorang Tionghoa asal Bangka,  secangkir kopi pun terasa harum dan legit berkat perpaduan kopi robusta Lampung dan arabika dari Jawa. Ketika mentari berada di tengah-tengah, terasa lebih nikmat bila dicampur susu kental manis dan es batu karena biasanya hawa siang nan panas mulai menyergap. 
+</p>
+
+    </div>
+
+
+        <div class="row pt-5 mt-5 text-center">
+          <div class="col-md-12">
+            <div class="pt-5">
+              <p>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This website is made with by Vicky & Sandy
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            </p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </footer>
+
+    </div>
+
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.sticky.js"></script>
+    <script src="js/jquery.waypoints.min.js"></script>
+    <script src="js/jquery.animateNumber.min.js"></script>
+    <script src="js/jquery.fancybox.min.js"></script>
+    <script src="js/jquery.easing.1.3.js"></script>
+    <script src="js/aos.js"></script>
+
+    <script src="js/main.js"></script>
+
+     
+
+  </body>
+
+</html>
